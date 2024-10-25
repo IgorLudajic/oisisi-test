@@ -1,10 +1,15 @@
-
-
-jcfhdjhddfg
-
-
+y547
+432
+jcfhdjhddfgfdsaf
+casdf62
+dfhyj26
 Veoma sam umoran
+<<<<<<< HEAD
 
 kisobran
+=======
+ashshadg6
+8trjgh
+>>>>>>> main
 vadsf
-Veoma sam umoran
+Veoma sam umoran jos umorniji sam
